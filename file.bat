@@ -1,2 +1,2 @@
-winver
+winver  and 3
 pause
