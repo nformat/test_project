@@ -1,2 +1,2 @@
 winver
-pause
+pause and 1
